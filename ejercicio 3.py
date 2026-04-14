@@ -1,0 +1,5 @@
+edad = int(input("ingrese su edad"))
+anio = (edad + 1)
+print("El año que viene tendrás", anio, "años")
+terminar = input("escriba algo para terminar")
+print(terminar, "fin")
