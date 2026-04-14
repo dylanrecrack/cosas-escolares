@@ -1,1 +1,1 @@
-leete un libro mejor
+python es parecido a la palabra pito
